@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm currently learning Java for a class and Python on my own.
+## I'm currently using CodeCademy to learn.
+## How to reach me: Message me on github.
